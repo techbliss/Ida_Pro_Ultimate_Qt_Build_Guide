@@ -13,4 +13,4 @@ Especially regarding runtime.
 Follow the tut and you are gonna be happy with your Ida Pro python.
 And ida will love you back.
 
-Download the package and page links will work also :)
+Download the package, and page links will work also :)
