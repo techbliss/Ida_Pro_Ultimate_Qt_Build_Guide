@@ -8,7 +8,7 @@ Building Sip.
 Building PyQt.
 Building QScintilla2 for PyQt4.
 
-Its focus of not making the mistake making a mismatch package.
+It focus of not making the mistake making a mismatch package.
 Especially regarding runtime.
 Follow the tut and you are gonna be happy with your Ida Pro python.
 And ida will love you back.
